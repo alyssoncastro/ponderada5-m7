@@ -37,7 +37,7 @@ Contudo, para que esses dados sejam eficazes, é crucial que sejam coletados, pr
 
 **5. Taxonomia de Algoritmos:**
 
-O artigo discutido no contexto deste mini artigo apresenta uma taxonomia de algoritmos de aprendizado de máquina que podem ser aplicados para extrair informações de alto nível dos dados da IoT. Esses algoritmos são divididos em três categorias principais: aprendizado supervisionado, aprendizado não supervisionado e aprendizado por reforço. Cada uma dessas categorias tem aplicações específicas na análise de dados da IoT.
+O artigo apresenta uma taxonomia de algoritmos de aprendizado de máquina que podem ser aplicados para extrair informações de alto nível dos dados da IoT. Esses algoritmos são divididos em três categorias principais: aprendizado supervisionado, aprendizado não supervisionado e aprendizado por reforço. Cada uma dessas categorias tem aplicações específicas na análise de dados da IoT.
 
 **6. Aprendizado Supervisionado e Não Supervisionado:**
 
